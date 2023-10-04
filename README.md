@@ -1,0 +1,1 @@
+# ws-hand-in-assets
